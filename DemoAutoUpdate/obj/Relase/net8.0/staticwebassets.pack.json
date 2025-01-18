@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/obj/Relase/net8.0/scopedcss/projectbundle/DemoAutoUpdate.bundle.scp.css",
+      "PackagePath": "staticwebassets/DemoAutoUpdate.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Relase/net8.0/staticwebassets/msbuild.DemoAutoUpdate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Relase/net8.0/staticwebassets/msbuild.build.DemoAutoUpdate.props",
+      "PackagePath": "build\\DemoAutoUpdate.props"
+    },
+    {
+      "Id": "obj/Relase/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoAutoUpdate.props",
+      "PackagePath": "buildMultiTargeting\\DemoAutoUpdate.props"
+    },
+    {
+      "Id": "obj/Relase/net8.0/staticwebassets/msbuild.buildTransitive.DemoAutoUpdate.props",
+      "PackagePath": "buildTransitive\\DemoAutoUpdate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

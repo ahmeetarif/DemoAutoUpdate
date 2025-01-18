@@ -1,0 +1,6 @@
+﻿services:
+  demoautoupdatenet6:
+    image: demoautoupdatenet6
+    build:
+      context: .
+      dockerfile: DemoAutoUpdateNet6/Dockerfile

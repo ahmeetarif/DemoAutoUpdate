@@ -27,3 +27,4 @@
 /Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/obj/Debug/net8.0/DemoAutoUpdate.pdb
 /Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/obj/Debug/net8.0/DemoAutoUpdate.genruntimeconfig.cache
 /Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/obj/Debug/net8.0/ref/DemoAutoUpdate.dll
+/Users/ahmetarif/PROJECTS/DemoAutoUpdate/DemoAutoUpdate/obj/Debug/net8.0/DemoAutoUpdate.sourcelink.json
