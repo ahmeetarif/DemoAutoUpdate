@@ -4,3 +4,6 @@
     build:
       context: .
       dockerfile: DemoAutoUpdateNet6/Dockerfile
+    ports:
+      - "8181:8181" # Map 8181 on the host to 8181 in the container
+      - "8282:8282" # Map 8282 on the host to 8282 in the container
