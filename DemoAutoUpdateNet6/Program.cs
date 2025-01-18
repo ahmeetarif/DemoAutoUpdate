@@ -28,4 +28,6 @@ app.UseRouting();
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 
+Console.WriteLine("I AM Demo Auto Update");
+
 app.Run();
