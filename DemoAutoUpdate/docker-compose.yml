@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  demoupdate:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        BUILD_CONFIGURATION: Release # Pass build arguments here if needed
+    ports:
+      - "8080:8080" # Map container port 8080 to host
+      - "8081:8081" # Map container port 8081 to host
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production # Example of setting an environment variable
+    restart: always # Ensure the container restarts on failure
